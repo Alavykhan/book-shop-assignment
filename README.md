@@ -16,4 +16,4 @@ Bhai Bhai Book Shop is an Express application developed with TypeScript that int
 - **MongoDB** (with Mongoose for ODM)
 - **Mongoose** (for data modeling and schema validation)
 
-## Live Link:
+## Live Link: https://book-shop-assignment-five.vercel.app/
